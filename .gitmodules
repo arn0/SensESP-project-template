@@ -1,0 +1,3 @@
+[submodule ".pio/libdeps/esp32dev/SensESP"]
+	path = .pio/libdeps/esp32dev/SensESP
+	url = git@github.com:arn0/SensESP-project-template.git
